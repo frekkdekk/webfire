@@ -1,5 +1,4 @@
 ./WebfireSolution/Webfire/appsettings.Development.json
-./WebfireSolution/Webfire/wwwroot/lib/*
 *.com
 *.class
 *.dll
@@ -23,6 +22,7 @@ _UpgradeReport_Files/
 ###############
 bin/
 obj/
+lib/
 TestResults/
 ###################
 # Web publish log #
