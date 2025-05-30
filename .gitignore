@@ -1,3 +1,5 @@
+./WebfireSolution/Webfire/appsettings.Development.json
+./WebfireSolution/Webfire/wwwroot/lib/*
 *.com
 *.class
 *.dll
